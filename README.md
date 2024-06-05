@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Web Development, Machine Learning and Competitive COding
+- 💬 Ask me about Web Development, Machine Learning and Competitive Coding
 
 - 📫 How to reach me: https://twitter.com/AdithyaShan11
 - 😄 Pronouns: He/Him
