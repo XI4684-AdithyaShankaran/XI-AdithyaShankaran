@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as Team Member at ML Project at Xebia
+- 🔭 I’m currently working as a Team Member on an ML Project at Xebia
 
 - 🌱 I’m currently learning Go Development
 
