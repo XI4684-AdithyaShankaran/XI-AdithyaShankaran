@@ -1,4 +1,4 @@
-# <a href="https://twitter.com/AdithyaShan11"><img src="https://i.ibb.co/mSLNHJm/Adithya-Header-Github.png" alt="Adithya-Header-Github" border="0"></a>
+# <a href="https://twitter.com/AdithyaShan11"><img src="https://i.ibb.co/mSLNHJm/Adithya-Header-Github.png" alt="Adithya-Header-Github" border="0" width="1000"></a>
                                         
  #   Hi there 👋, I'm Adithya Shankaran
 
