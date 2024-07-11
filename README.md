@@ -23,18 +23,14 @@ Here are some ideas to get you started:
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/XI-AdithyaShankaran/github-readme-stats"><img alt="Adithya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XI-AdithyaShankaran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/XI-AdithyaShankaran/github-readme-stats"><img alt="Adithya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XI-AdithyaShankaran&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-
+<br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Adithya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XI-AdithyaShankaran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/convoychat"><img alt="Adithya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=XI-AdithyaShankaran&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
 
 <br/>
 <br/>
-
-<a href="https://github.com/XI-AdithyaShankaran/github-readme-activity-graph"><img alt="Adithya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=XI-AdithyaShankaran&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<a href="https://github.com/XI-AdithyaShankaran/github-readme-activity-graph"><img alt="Adithya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=XI-AdithyaShankaran&bg_color=0e1117&color=61d9fb&line=61d9fb&point=ffffff&area=true&hide_border=true" /></a>
 <br/>
 <br/>
 
