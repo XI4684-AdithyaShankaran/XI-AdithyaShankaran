@@ -76,10 +76,10 @@
 <br>
 
 ## 📊 My Github Stats
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=XI-AdithyaShankaran&show_icons=true&locale=en&&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="XI-AdithyaShankaran" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=XI4684-AdithyaShankaran&show_icons=true&locale=en&&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="XI4684-AdithyaShankaran" /></p>
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=XI-AdithyaShankaran&show_icons=true&locale=en&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="XI-AdithyaShankaran" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=XI4684-AdithyaShankaran&show_icons=true&locale=en&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="XI4684-AdithyaShankaran" /></p>
 
-<p><img  title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XI-AdithyaShankaran&count_private=true&layout=compact&theme=black-ice&hide_border=true&background=0E1117&stroke=0000" alt="XI-AdithyaShankaran" /></p>
+<p><img  title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XI4684-AdithyaShankaran&count_private=true&layout=compact&theme=black-ice&hide_border=true&background=0E1117&stroke=0000" alt="XI4684-AdithyaShankaran" /></p>
 
-<p><img alt="Adithya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=XI-AdithyaShankaran&bg_color=0D1117&color=61d9fb&line=61d9fb&point=ffffff&area=true&hide_border=true" /></p>
+<p><img alt="Adithya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=XI4684-AdithyaShankaran&bg_color=0D1117&color=61d9fb&line=61d9fb&point=ffffff&area=true&hide_border=true" /></p>
